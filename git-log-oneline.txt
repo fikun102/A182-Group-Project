@@ -1,0 +1,45 @@
+*   20ef1a1 (HEAD -> main) Merge branch 'main' of https://github.com/fikun102/A182-Group-Project
+|\  
+| * 6fa80e1 Delete Report/Report.docx
+| * a5dcf23 Rename Report.docx to Report/Report.docx
+| * 5270c4b Add files via upload
+| * 5d877ea Add files via upload
+| *   9766c19 Merge branch 'main' of https://github.com/fikun102/A182-Group-Project
+| |\  
+| | * 7f723d8 Add files via upload
+| | * 417ae92 Rename Rplot.png to Male_PieChart.png
+| * | 5e99b93 Update .Rhistory
+| |/  
+| * 359dd2e Rename Rplot.png to Graphs/Rplot.png
+| * 8106706 Delete team research.R
+| * 3bbbefa Delete Code History.Rhistory
+| * 1fc7a64 Add barplot for Bone Tumor dataset analysis
+| * 0567f31 Update .Rhistory
+| * 1d06a8a Update .Rhistory
+| * 4689d97 Update .Rhistory
+| * 5181eeb Update .Rhistory
+| * 649559a Update .Rhistory
+| * 7b8860e Update .Rhistory
+| * b0057aa Update .Rhistory
+| *   a8f4798 Merge branch 'main' of https://github.com/fikun102/A182-Group-Project
+| |\  
+| | * 742a4a0 Update .Rhistory
+| | * 3d347b4 Update .Rhistory
+| | * d3d599b Added male pie chart code
+| * | fb4f531 Create team research.R
+* | | dc1061a Create contributors.csv
+| |/  
+|/|   
+* | 9322269 Update .Rhistory
+|\| 
+| * 90c3dd5 Update .Rhistory
+* | f4d0b38 Update .Rhistory
+|/  
+* 2d1c160 Add files via upload
+* ac7c991 Update .Rhistory
+* 19775ce Update .Rhistory
+* a9a313e Update .Rhistory
+* 8a2bcdc Update on file
+* 8a34b93 Create Code History.Rhistory
+* 9e50426 Create .Rhistory
+* e3d727d Initial commit

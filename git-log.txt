@@ -1,0 +1,227 @@
+commit 20ef1a11b4280cf1d8f900634cd0a35d1f304cd7
+Merge: dc1061a 6fa80e1
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Wed Dec 10 01:25:59 2025 +0000
+
+    Merge branch 'main' of https://github.com/fikun102/A182-Group-Project
+
+commit dc1061ae830980d29d7b073f1deda08ff8b4b1e0
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Wed Dec 10 01:25:54 2025 +0000
+
+    Create contributors.csv
+
+commit 6fa80e1a8bc73884f1964da00744eff0cdb986dc
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Mon Dec 8 03:14:57 2025 +0000
+
+    Delete Report/Report.docx
+
+commit a5dcf233f781e830eac44118b4a17269a0866c7e
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Mon Dec 8 02:53:52 2025 +0000
+
+    Rename Report.docx to Report/Report.docx
+
+commit 5270c4b9ecfdd5ce692c90b7bc7df6d608b3c09c
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Mon Dec 8 02:52:58 2025 +0000
+
+    Add files via upload
+
+commit 5d877ea973d9628d2bfec48210592d3162c09e71
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Sun Dec 7 20:30:00 2025 +0000
+
+    Add files via upload
+
+commit 9766c19be2c258f248e7153e8abcc9734d8840b4
+Merge: 5e99b93 7f723d8
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Dec 3 15:49:15 2025 +0000
+
+    Merge branch 'main' of https://github.com/fikun102/A182-Group-Project
+
+commit 5e99b9388319f35be5c4a6b545273cb8e97b612e
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Dec 3 15:49:12 2025 +0000
+
+    Update .Rhistory
+    
+    Statistical Test
+
+commit 7f723d82af4b03eb7b098d2b7a9360fa4058b658
+Author: Emmnauel <ie24aap@herts.ac.uk>
+Date:   Wed Dec 3 15:42:23 2025 +0000
+
+    Add files via upload
+
+commit 417ae92fdc8086d0709d095dc5f2f07db35c4355
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Dec 3 14:43:00 2025 +0000
+
+    Rename Rplot.png to Male_PieChart.png
+
+commit 359dd2ed96218c0f0852da6d7128287381b0039a
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Dec 3 13:41:42 2025 +0000
+
+    Rename Rplot.png to Graphs/Rplot.png
+
+commit 8106706832d56d2c4d335b99f5ad77b4e9fc737b
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Dec 3 13:38:26 2025 +0000
+
+    Delete team research.R
+
+commit 3bbbefa5b193dcb255eef753562b979e096379ef
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Dec 3 13:37:57 2025 +0000
+
+    Delete Code History.Rhistory
+
+commit 1fc7a649c7427315554cef8f51ae56d1e570132d
+Author: Emmnauel <ie24aap@herts.ac.uk>
+Date:   Wed Dec 3 13:16:48 2025 +0000
+
+    Add barplot for Bone Tumor dataset analysis
+
+commit 0567f31c152a7f2a6a1d7c25e07e330b83a21fac
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 12:37:24 2025 +0000
+
+    Update .Rhistory
+
+commit 1d06a8ac169c80c02eafbf3adf2c57a6cc37d3ba
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 12:36:46 2025 +0000
+
+    Update .Rhistory
+
+commit 4689d97ca2fa6b8538146634eec2b549b1637dbb
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 12:36:02 2025 +0000
+
+    Update .Rhistory
+
+commit 5181eeb23e86bfa498aec622f7109b3e157c93d2
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 12:35:40 2025 +0000
+
+    Update .Rhistory
+
+commit 649559aab0d4edf31cfd991acf6a7352a8470a6d
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 12:34:54 2025 +0000
+
+    Update .Rhistory
+
+commit 7b8860e8a0c04281a0b5e40ab8efdc5eb1422aa4
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 11:40:27 2025 +0000
+
+    Update .Rhistory
+
+commit b0057aa3fc639a323d883ba0689bd6229aa9e4af
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Wed Dec 3 11:33:59 2025 +0000
+
+    Update .Rhistory
+
+commit a8f4798283c29f10c58d6997d99b52408e6d7f44
+Merge: fb4f531 742a4a0
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Tue Dec 2 16:32:21 2025 +0000
+
+    Merge branch 'main' of https://github.com/fikun102/A182-Group-Project
+
+commit fb4f5313ef868ddd2a6fd0ffe8ba066fc45917a5
+Author: Joan <js18aep@herts.ac.uk>
+Date:   Tue Dec 2 16:32:13 2025 +0000
+
+    Create team research.R
+
+commit 742a4a00fc1ad1b5c241e1378471c000b3bbaf94
+Author: Filibbus Kajang <fk24abn@herts.ac.uk>
+Date:   Tue Dec 2 10:54:41 2025 +0000
+
+    Update .Rhistory
+
+commit 3d347b44d3b42fef73ae6a7e44c7b1f37af50749
+Author: Filibbus Kajang <fk24abn@herts.ac.uk>
+Date:   Tue Dec 2 10:54:21 2025 +0000
+
+    Update .Rhistory
+
+commit d3d599b8832ad38e3f23c9a61a3da9f425800f08
+Author: Filibbus Kajang <fk24abn@herts.ac.uk>
+Date:   Tue Dec 2 10:37:41 2025 +0000
+
+    Added male pie chart code
+
+commit 93222697655c5e02327181459d05da83d09fbe62
+Merge: f4d0b38 90c3dd5
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Mon Dec 1 15:18:52 2025 +0000
+
+    Update .Rhistory
+
+commit f4d0b38d9b916f6014c3963a664547457edbf2f2
+Author: RiyaSJ20 <rj24abo@herts.ac.uk>
+Date:   Mon Dec 1 15:15:36 2025 +0000
+
+    Update .Rhistory
+
+commit 90c3dd5e3239372127d06b8dcdddff0f977f4a83
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Mon Dec 1 01:08:28 2025 +0000
+
+    Update .Rhistory
+
+commit 2d1c160c6149f73ae867b7b8ee1bf5bd4ae67160
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Thu Nov 27 00:21:24 2025 +0000
+
+    Add files via upload
+
+commit ac7c991513f8d3dac400ca6986a268d3837d6e84
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Wed Nov 26 00:39:33 2025 +0000
+
+    Update .Rhistory
+
+commit 19775ce52f2dc04560319282371337827b4e2424
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Mon Nov 24 23:23:01 2025 +0000
+
+    Update .Rhistory
+
+commit a9a313e17765c407c5869b03d55548aa405c973c
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Mon Nov 24 17:41:16 2025 +0000
+
+    Update .Rhistory
+
+commit 8a2bcdce68e258bd323eccd8ed7bd5cd021df2c5
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Thu Nov 13 14:15:10 2025 +0000
+
+    Update on file
+
+commit 8a34b9385c91354c0791f989a923182aeaa23129
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Thu Nov 13 14:06:34 2025 +0000
+
+    Create Code History.Rhistory
+
+commit 9e50426a0a6f5f05e0d1f397e6fc792699f22dd4
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Thu Nov 13 14:00:55 2025 +0000
+
+    Create .Rhistory
+
+commit e3d727d2e9ef272956a25488c5435aca7d42c1a7
+Author: fikun102 <va24abd@herts.ac.uk>
+Date:   Tue Nov 4 22:44:20 2025 +0000
+
+    Initial commit
